@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/56ad6549-a054-44d0-b495-36b06ce29e9f.svg)](https://wakatime.com/@56ad6549-a054-44d0-b495-36b06ce29e9f)
 ### About me
 
 - 🔭 I’m a student
