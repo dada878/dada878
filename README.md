@@ -5,6 +5,6 @@
 - 🌱 I’m from Taiwan
 - ⚡ Fun fact: coding and play computer games
 
-[![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada909090)](https://github.com/dada909090)
+[![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada909090&show_icons=true&theme=dark)](https://github.com/dada909090)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada909090&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada909090&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
