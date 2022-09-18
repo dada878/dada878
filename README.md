@@ -20,4 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada909090&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dada909090&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
