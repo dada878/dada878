@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,stackoverflow,powershell,linux,heroku,androidstudio)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
-## Weights
+## Widgets
 
 [![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada909090&show_icons=true&theme=dark)](https://github.com/dada909090)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dada909090&theme=dark)](https://git.io/streak-stats)\
