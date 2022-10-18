@@ -15,9 +15,9 @@
 
 ## Widgets
 
-[![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada909090&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada878&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dada909090&theme=dark)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada909090&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dada909090&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dada878&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
