@@ -6,12 +6,12 @@
 - 🌱 I’m from Taiwan
 - ⚡ Fun fact: coding and play computer games
 
-## Skills
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,cs,php,html,css)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,unity,vue,flutter,electron)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,git,vscode,github,md)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,stackoverflow,powershell,linux,heroku,androidstudio)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,dart)](https://skillicons.dev)
 
 ## Widgets
 
