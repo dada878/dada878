@@ -10,7 +10,7 @@ Currently, I'm practicing for some programming competitions.
 [![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,unity,vue,flutter,electron)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,git,vscode,github,md)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,stackoverflow,powershell,linux,heroku,androidstudio)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,dart,typescript,react,scss)](https://skillicons.dev)
 
 ## Feature Projects
 - Pomodoro Timer
