@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/56ad6549-a054-44d0-b495-36b06ce29e9f.svg)](https://wakatime.com/@56ad6549-a054-44d0-b495-36b06ce29e9f)
 ![Profile views](https://gpvc.arturio.dev/dada909090)
 ## About me
-Hello, I'm Dada878, a student from Taiwan.\
+Hello, I'm Dada, a student from Taiwan.\
 I'm skilled in web frontend development using Vue.js, as well as Python project development.\
 Currently, I'm practicing for some programming competitions.
 
