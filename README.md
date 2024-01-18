@@ -12,6 +12,19 @@ Currently, I'm practicing for some programming competitions.
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,stackoverflow,powershell,linux,heroku,androidstudio)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,dart)](https://skillicons.dev)
 
+## Feature Projects
+- Pomodoro Timer
+
+<img src="https://github.com/dada878/dada878/assets/37009584/0ee32af5-c0ef-4b49-a68d-47510a258364" width=200 />
+
+- SCINT website
+
+<img src="https://github.com/dada878/dada878/assets/37009584/b546bbc5-2261-4bb6-813d-ef7e50a95832">
+
+- Shoes website
+
+<img src="https://github.com/dada878/dada878/assets/37009584/600208e0-7c65-45d0-a99d-157d2375b628">
+
 ## Widgets
 
 [![dada909090's GitHub stats](https://github-readme-stats.vercel.app/api?username=dada878&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
