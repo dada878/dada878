@@ -31,7 +31,6 @@ Currently, I'm practicing for some programming competitions.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dada878&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=878&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada878&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dada878&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
