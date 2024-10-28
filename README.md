@@ -4,11 +4,10 @@
 Hello, I'm Dada, a student from Taiwan, with expertise in web frontend development using Vue.js and React.js.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,cs,php,html,css)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,unity,vue,flutter,react)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,git,vscode,github,md)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,stackoverflow,powershell,linux,heroku,androidstudio)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,dart,typescript,react,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,cs,php,html,css,scss)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,unity,vue,flutter,react,mysql)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,git,vscode,github,md,sqlite)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,typescript,powershell,linux,heroku,androidstudio,dart)](https://skillicons.dev)
 
 ## Feature Projects
 - Pomodoro Timer
