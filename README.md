@@ -1,7 +1,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Youtong0826&label=Profile%20views&color=0e75b6&style=flat" alt="Youtong0826" /> </p>
 
 ## About me
-Hello, I'm Dada, a student from Taiwan, with expertise in web frontend development using Vue.js and React.js.
+Hello, I'm Dada, a student from Taiwan, with expertise in web frontend development using Next.js and Tailwind CSS.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,cs,php,html,css,scss)](https://skillicons.dev)\
@@ -31,3 +31,5 @@ Hello, I'm Dada, a student from Taiwan, with expertise in web frontend developme
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dada878&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dada878&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://gitroll.io/profile/uxtvWN0Jf5paRd8WAQH7tXHaBAep1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxtvWN0Jf5paRd8WAQH7tXHaBAep1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
